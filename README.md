@@ -16,35 +16,6 @@ Currently preparing myself for off-campus opportunities and internships with str
 
 🌱 Improving core CS concepts (OOPS, SQL, OS basics)
 
-💼 Preparing my portfolio & GitHub for internships and jobs (2026)
-
-🛠️ Tools & Technologies I Use
-
-Languages
-
-Python 🐍
-
-ML
-
-NumPy, Pandas
-
-Matplotlib
-
-Scikit-learn
-
-Tools & Platforms
-
-Git & GitHub
-
-Google Colab
-
-Power BI
-
-Jupyter Notebook
-
-Currently Learning
-
-Deep Learning
 
 📫 How to Reach Me
 
