@@ -1,16 +1,59 @@
-## Hi there 👋
+👋 Hi, I’m Varshitha Doddavula
 
-<!--
-**Varshitha2323/Varshitha2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech Computer Science (AI & ML) student passionate about building intelligent systems using Data Science, Machine Learning, and Generative AI.
+I enjoy turning data into insights, solving real-world problems with AI, and continuously improving my technical and problem-solving skills.
+Currently preparing myself for off-campus opportunities and internships with strong projects and a solid foundation.
 
-Here are some ideas to get you started:
+🚀 What I’m Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Building Data Science & Machine Learning projects
+
+🤖 Developing an AI-based Mental Health Chatbot – FeelFree
+
+🧠 Learning DSA (Data Structures & Algorithms) for coding interviews
+
+🧩 Exploring Generative AI & LLM fundamentals
+
+🌱 Improving core CS concepts (OOPS, SQL, OS basics)
+
+💼 Preparing my portfolio & GitHub for internships and jobs (2026)
+
+🛠️ Tools & Technologies I Use
+
+Languages
+
+Python 🐍
+
+ML
+
+NumPy, Pandas
+
+Matplotlib
+
+Scikit-learn
+
+Tools & Platforms
+
+Git & GitHub
+
+Google Colab
+
+Power BI
+
+Jupyter Notebook
+
+Currently Learning
+
+Deep Learning
+
+📫 How to Reach Me
+
+💼 LinkedIn: www.linkedin.com/in/varshithadoddavula
+
+🌐 Portfolio: Coming soon 🚧
+
+🐙 GitHub: You’re already here 😉
+
+✨ Fun Fact
+
+I believe consistency beats motivation, and I’m on a journey to become a confident, independent woman in tech 💪✨
